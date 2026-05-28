@@ -106,22 +106,41 @@ Pearsons_Four/
 | Director | $201,739 |
 | Executive | $227,000 |
 
-**Hypothesis Testing (ANOVA):**
-- p-value < 0.0001 → **Experience level significantly affects salary** (reject H₀)
-- Pearson correlation (Experience → Salary): **r = 0.43**
-
-**Conditional Probability (LinkedIn):**
-- P(High Salary | Python) = **8.00%**
-- P(High Salary | No Python) = **7.09%**
-- Python mention increases high-salary probability by ~13%
-
-### 3. Correlations (Isabela)
-
+**Correlation Analysis:**
 | Variable Pair | Correlation |
 |--------------|-------------|
 | Experience level → Salary | **0.43** (moderate positive) |
 | Remote allowed → Salary | **0.18** (weak positive) |
 | Views → Applies | **0.62** (moderate positive) |
+
+**Hypothesis Testing (ANOVA):**
+- p-value < 0.0001 → **Experience level significantly affects salary** (reject H₀)
+
+**Conditional Probability (LinkedIn):**
+- P(High Salary | Python) = **8.00%** vs P(High Salary | No Python) = **7.09%**
+- Python mention increases high-salary probability by ~13%
+
+### 3. Visualizations (Anas)
+
+6 graphs created in the LinkedIn notebook, all with professional titles, axis labels, legends, and Markdown interpretation:
+
+<p align="center">
+  <img src="screenshots/linkedin_histogram_kde.png" alt="Salary Distribution KDE" width="400">
+  <img src="screenshots/linkedin_boxplot_experience.png" alt="Salary by Experience" width="400">
+</p>
+<p align="center">
+  <img src="screenshots/linkedin_salary_spread.png" alt="Salary Spread" width="400">
+  <img src="screenshots/linkedin_top_roles.png" alt="Top 10 Data Roles" width="400">
+</p>
+<p align="center">
+  <img src="screenshots/linkedin_views_vs_applies.png" alt="Views vs Applies" width="400">
+  <img src="screenshots/vgg_linkedin_4panels.png" alt="Linkedin Analysis Dashboard" width="400">
+</p>
+
+- **Histogram + KDE:** Salary distribution is positively skewed — most roles cluster between $80K–$160K
+- **Boxplot by Experience:** Clear salary progression from Internship ($54K) to Executive ($227K)
+- **Top Roles:** Data Analyst (137), Data Engineer (90), Data Scientist (56) lead the market
+- **Views vs Applies:** Moderate positive correlation (r=0.62) — more views drive more applications
 
 ### 4. Stack Overflow — Bias Analysis (Vanessa)
 
@@ -136,6 +155,11 @@ Pearsons_Four/
 - P(High Salary | Senior/Experienced) = **53.42%**
 - P(High Salary | Junior/Early-Career) = **22.57%**
 
+**MNAR Evidence:**
+<p align="center">
+  <img src="screenshots/vgg_bias_4panels.png" alt="Bias Analysis - 4 panels" width="700">
+</p>
+
 ### 5. Cross-Dataset Comparison (Vanessa)
 
 | Metric | Stack Overflow (Community) | LinkedIn (Marketplace) |
@@ -147,18 +171,9 @@ Pearsons_Four/
 
 **Key insight:** LinkedIn offers reflect real market rates (+59% median vs SO survey). Programs must be priced on LinkedIn data, not inflated SO self-reports.
 
----
-
-## Visualization Previews
-
-> *Add screenshots of key graphs here:*
-> - `screenshots/histogram_kde.png` — Salary Distribution
-> - `screenshots/boxplot_experience.png` — Salary by Experience
-> - `screenshots/top_roles.png` — Top Data Roles
-> - `screenshots/top_industries.png` — Top Industries
-> - `screenshots/correlation_heatmap.png` — Correlation Matrix
-> - `screenshots/bias_mnar.png` — MNAR Bias Evidence
-> - `screenshots/cross_dataset_comparison.png` — SO vs LinkedIn KDE
+<p align="center">
+  <img src="screenshots/vgg_cross_dataset_kde.png" alt="Cross-Dataset KDE Comparison" width="700">
+</p>
 
 ---
 
