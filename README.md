@@ -1,7 +1,7 @@
 # Pearsons Four — EDA Data Science Job Salaries
 
 <p align="center">
-  <img src="screenshots/banner.png" alt="Pearsons Four Banner" width="800">
+  <img src="screenshots/Logo (2).png" alt="Pearsons Four Banner" width="800">
 </p>
 
 **Exploratory Data Analysis: LinkedIn job postings + Stack Overflow bias analysis for DataTalent Solutions S.L.**
