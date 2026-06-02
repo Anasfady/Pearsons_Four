@@ -133,8 +133,8 @@ Pearsons_Four/
   <img src="screenshots/linkedin_top_roles.png" alt="Top 10 Data Roles" width="400">
 </p>
 <p align="center">
-  <img src="screenshots/linkedin_views_vs_applies.png" alt="Views vs Applies" width="400">
-  <img src="screenshots/vgg_linkedin_4panels.png" alt="Linkedin Analysis Dashboard" width="400">
+<img src="screenshots/heatmap_download.png" alt="Views vs Applies" width="400"> 
+<img src="screenshots/vgg_linkedin_4panels.png" alt="Linkedin Analysis Dashboard" width="400">
 </p>
 
 - **Histogram + KDE:** Salary distribution is positively skewed — most roles cluster between $80K–$160K
