@@ -12,10 +12,10 @@
 
 | Rol | Nombre | GitHub |
 |-----|--------|--------|
-| **Responsable de Ingeniería de Datos** (Data Wrangler) — Fases 1 & 2 | **Juan** | @Juan de la Fuente Larrocca |
-| **Responsable de Análisis Estadístico** — Fase 3 | **Isabela** | @Isabela |
+| **Responsable de Ingeniería de Datos** (Data Wrangler) — Fases 1 & 2 | **Juan** | @juandelaf1 |
+| **Responsable de Análisis Estadístico** — Fase 3 | **Isabela** | @Isabela-Tellez |
 | **Responsable de Visualización** (Data Storyteller) — Fase 4 | **Anas** | @Anas28 |
-| **Consultora de Estrategia y Ética de Datos** — Sesgos | **Vanessa** | @Vanessa |
+| **Consultora de Estrategia y Ética de Datos** — Sesgos | **Vanessa** | @garciaguadalupevanessa-bit |
 
 > **Scrum Master:** Anas | **Product Owner:** Juan
 
