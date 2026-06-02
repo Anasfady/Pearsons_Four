@@ -129,7 +129,7 @@ Pearsons_Four/
   <img src="screenshots/linkedin_boxplot_experience.png" alt="Salary by Experience" width="400">
 </p>
 <p align="center">
-  <img src="screenshots/linkedin_salary_spread.png" alt="Salary Spread" width="400">
+  <img src="screenshots/salary_spread (3).png" alt="Salary Spread" width="400">
   <img src="screenshots/linkedin_top_roles.png" alt="Top 10 Data Roles" width="400">
 </p>
 <p align="center">
