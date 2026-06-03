@@ -193,7 +193,7 @@ Pearsons_Four/
 | LinkedIn Job Postings EDA notebook | Juan + Isabela + Anas | ✅ Complete |
 | Stack Overflow bias analysis notebook | Vanessa | ✅ Complete |
 | Cross-dataset comparison | Vanessa | ✅ Complete |
-| Executive presentation (10 min slides) | Vanessa (leads) + Juan | 🔄 In progress |
+| Executive presentation (10 min slides) | Vanessa (leads) + Juan | ✅ Complete |
 | README with results | Anas | ✅ Complete |
 | GUIDE.md with task distribution | Anas | ✅ Complete |
 
